@@ -4,7 +4,7 @@
 
 <p align="center">
   <br>
-  <img width="400" src=".public/assets/images/logo.svg" alt="logo of awesome-vite repository">
+  <img width="400" src="public/assets/images/logo.png" alt="logo of owais app repository">
   <br>
   <br>
 </p>
