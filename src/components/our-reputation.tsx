@@ -12,7 +12,7 @@ const OurReputation = () => {
         <Row className="m-0 p-0">
           <Col className="m-0 p-0">
             <div className="flex justify-between">
-              <Row className="m-0 p-0">
+              <Row className="m-0 p-0 gap-[23px]">
                 <Col xs={12} md={1}></Col>
                 <Col
                   xs={12}
@@ -20,7 +20,7 @@ const OurReputation = () => {
                   lg={2}
                   className="sm:px-[6.5em] md:px-2 mb-8"
                 >
-                  <div className="bg-white rounded-2xl px-6 py-12 relative text-center h-[315px]">
+                  <div className="bg-white rounded-2xl px-6 py-12 relative text-center h-[315px] w-[235px]">
                     <div className="flex justify-center">
                       <img
                         src="assets/images/single-rectangle.png"
@@ -51,7 +51,7 @@ const OurReputation = () => {
                   lg={2}
                   className="sm:px-[6.5em] md:px-2 mb-8"
                 >
-                  <div className="bg-white rounded-2xl px-6 py-12 relative text-center h-[315px]">
+                  <div className="bg-white rounded-2xl px-6 py-12 relative text-center h-[315px] w-[235px]">
                     <div className="flex justify-center">
                       <img
                         src="assets/images/double-rectangle.png"
@@ -82,7 +82,7 @@ const OurReputation = () => {
                   lg={2}
                   className="sm:px-[6.5em] md:px-2 mb-8"
                 >
-                  <div className="bg-white rounded-2xl px-6 py-12 relative text-center h-[315px]">
+                  <div className="bg-white rounded-2xl px-6 py-12 relative text-center h-[315px] w-[235px]">
                     <div className="flex justify-center">
                       <img
                         src="assets/images/square-rectangle.png"
@@ -112,7 +112,7 @@ const OurReputation = () => {
                   lg={2}
                   className="sm:px-[6.5em] md:px-2 mb-8"
                 >
-                  <div className="bg-white rounded-2xl px-6 py-12 relative text-center h-[315px]">
+                  <div className="bg-white rounded-2xl px-6 py-12 relative text-center h-[315px] w-[235px]">
                     <div className="flex justify-center">
                       <img
                         src="assets/images/square-rectangle.png"
@@ -142,7 +142,7 @@ const OurReputation = () => {
                   lg={2}
                   className="sm:px-[6.5em] md:px-2 mb-8"
                 >
-                  <div className="bg-white rounded-2xl px-6 py-12 relative text-center h-[315px]">
+                  <div className="bg-white rounded-2xl px-6 py-12 relative text-center h-[315px] w-[235px]">
                     <div className="flex justify-center">
                       <img
                         src="assets/images/square-rectangle.png"
