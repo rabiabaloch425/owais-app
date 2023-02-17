@@ -67,37 +67,16 @@ const NavbarPage = () => {
               style={{ maxHeight: "500px" }}
               navbarScroll
             >
-              <Nav.Link
-                href="#action1"
-                className="flex text-white font-light underline underline-offset-8"
-              >
-                أخبار صناديقنا
-              </Nav.Link>
-              <Nav.Link
-                href="#action2"
-                className="text-white font-light underline underline-offset-8"
-              >
-                مركز المساعدة
-              </Nav.Link>
-
-              <Nav.Link
-                href="#"
-                className="text-white font-light underline underline-offset-8"
-              >
-                الفرص الاستثمارية
-              </Nav.Link>
-              <Nav.Link
-                href="#"
-                className="text-white font-light underline underline-offset-8"
-              >
-                اضف فرصتك
-              </Nav.Link>
-              <Nav.Link
-                href="#"
-                className="text-white font-light underline underline-offset-8"
-              >
-                استثمر{" "}
-              </Nav.Link>
+              {menuItems.map((x: any, index: number) => {
+                return (
+                  <Nav.Link
+                    href={x.link}
+                    className="text-white font-light underline underline-offset-8"
+                  >
+                    {x.menu}
+                  </Nav.Link>
+                );
+              })}
             </Nav>
           </Navbar.Collapse>
           <Navbar.Brand href="#" className="sm:hidden md:block">
