@@ -1,0 +1,8 @@
+.swiper-container {
+  height: 350px;
+}
+
+.swiper-slide-active {
+  transform: scale(1.2) !important;
+  transition: 0.4s !important;
+}

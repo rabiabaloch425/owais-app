@@ -1,0 +1,73 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Effra-Regular";
+  src: url(/public/assets/fonts/Effra-Regular.ttf);
+}
+@font-face {
+  font-family: "Effra-Medium";
+  src: url(/public/fonts/Effra-Medium.ttf);
+}
+
+/* ///..Font-family../ */
+
+.primary-font-regular {
+  font-family: "Effra-Regular";
+  font-weight: 400;
+}
+.primary-font-medium {
+  font-family: "Effra-Medium";
+  font-weight: 500;
+}
+input {
+  text-align: right;
+}
+body {
+  background-color: #f5f7f9 !important;
+}
+.collapse {
+  visibility: initial !important;
+}
+.margin-auto {
+  margin: 0;
+  padding: 0;
+}
+.navbar-bg {
+  background-color: #00000047;
+  z-index: 10000;
+  width: 100%;
+  position: fixed;
+}
+.carousel-indicators [data-bs-target] {
+  height: 15px !important;
+  width: 15px !important;
+  border-radius: 90% !important;
+}
+.dropdown-toggle::after {
+  display: inline-block;
+  margin-left: 0.255em;
+  vertical-align: 0.255em;
+  content: "";
+  color: #ffff;
+  border-top: 0.3em solid !important;
+  border-right: 0.3em solid transparent !important;
+  border-left: 0.3em solid transparent !important;
+}
+
+.progress {
+  height: 26px !important;
+  border-radius: 30px !important;
+}
+
+.progress-bar {
+  border-radius: 30px;
+  height: 25px;
+  background-color: #03989e;
+}
+.shadow-double {
+  box-shadow: 10px 10px 0px -1px rgba(97, 97, 97, 0.75);
+  -webkit-box-shadow: 10px 10px 0px -1px rgba(97, 97, 97, 0.75);
+  -moz-box-shadow: 10px 10px 0px -1px rgba(97, 97, 97, 0.75);
+}
