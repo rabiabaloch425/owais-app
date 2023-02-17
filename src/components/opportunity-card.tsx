@@ -7,20 +7,16 @@ const OpportunityCard = () => {
     <>
       <div className="w-[420px] bg-white rounded-[25px] pb-7 ">
         <a href="#" className="relative">
-          <img
-            className="rounded-t-lg"
-            src="../../public/assets/images/card1.png"
-            alt=""
-          />
+          <img className="rounded-t-lg" src="assets/images/card2.png" alt="" />
           <img
             className="absolute bottom-[1px] w-[80px] right-[40%] translate-y-[40px]"
-            src="../../public/assets/images/subImg1.png"
+            src="assets/images/subImg1.png"
             alt=""
           />
         </a>
         <div className="flex justify-between py-[20px] px-[20px]">
           <img
-            src="../../public/assets/images/square.png"
+            src="assets/images/square.png"
             alt="owais square"
             className=" w-[40px] h-[40px]"
           />

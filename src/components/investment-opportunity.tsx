@@ -5,8 +5,8 @@ import OpportunityCard from "./opportunity-card";
 const InvestmentOppurtunity = () => {
   return (
     <>
-      <Row className="margin-auto">
-        <Col xs={12} className="margin-auto">
+      <Row className="m-0 p-0">
+        <Col xs={12} className="m-0 p-0">
           <div className="flex justify-center mt-[2em] mb-[2em]">
             <h1 className=" sm:!text-[1rem] md:!text-[1.8rem] text-[#03989E] sm:!py-[10px] md:!py-[20px]  sm:!px-[15px] md:!px-[26px] font-normal bg-[#9797971c] sm:!rounded-[12px] md:!rounded-[24px] ">
               الفرص الإستثمارية
@@ -24,7 +24,7 @@ const InvestmentOppurtunity = () => {
             <Input />
           </div>
         </Col>
-        <Col xs={12} className="margin-auto flex justify-end">
+        <Col xs={12} className="m-0 p-0 flex justify-end">
           <div className="mb-[2em] mt-[-1em] sm:px-[10px] md:px-[20px] flex sm:gap-2 md:gap-3">
             <button className="text-[#03989E]  border-[1px] border-[#03989E]  sm:text-[10px] md:text-[14px] sm:px-2 md:px-3 sm:py-[5px] md:py-[10px] sm:rounded-[3px] md:rounded-[8px]">
               الفرص النشطة

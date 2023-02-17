@@ -8,19 +8,19 @@ import HomeLayouts from "../../layouts/home_layouts";
 const Dashboard = () => {
   return (
     <>
-      <Container fluid className="margin-auto relative">
-        <Row className="margin-auto">
-          <Col xs={12} md={12} className="margin-auto">
+      <Container fluid className="m-0 p-0 relative">
+        <Row className="m-0 p-0">
+          <Col xs={12} md={12} className="m-0 p-0">
             <NavbarPage />
           </Col>
         </Row>
-        <Row className="margin-auto">
-          <Col xs={12} className="margin-auto">
+        <Row className="m-0 p-0">
+          <Col xs={12} className="m-0 p-0">
             <HomeLayouts />
           </Col>
         </Row>
-        <Row className="margin-auto">
-          <Col xs={12} className="margin-auto">
+        <Row className="m-0 p-0">
+          <Col xs={12} className="m-0 p-0">
             <Footer />
           </Col>
         </Row>

@@ -34,7 +34,7 @@ const SuccessCarousel = () => {
           <div className="bg-white w-[280px]  pt-[3em] pb-[4em] px-4  mt-7 mb-7 text-center rounded-[30px] relative">
             <div className="flex justify-center">
               <img
-                src="../../public/assets/images/bbc.png"
+                src="assets/images/bbc.png"
                 alt="bbc-owais"
                 className="w-[60px] mb-8"
               />
@@ -46,7 +46,7 @@ const SuccessCarousel = () => {
               الشركة حتى وصولها الى 100 مليون ريال سعودي خلال الأشهر القادمة.
             </h1>
             <img
-              src="../../public/assets/images/black-line.png"
+              src="assets/images/black-line.png"
               alt="bbc-owais"
               className="absolute left-[25%] bottom-[10px] w-[150px]"
             />
@@ -56,7 +56,7 @@ const SuccessCarousel = () => {
           <div className="bg-white w-[280px]  pt-[3em] pb-[4em] px-4  mt-7 mb-7 text-center rounded-[30px] relative">
             <div className="flex justify-center">
               <img
-                src="../../public/assets/images/forbes.png"
+                src="assets/images/forbes.png"
                 alt="bbc-owais"
                 className="w-[60px] mb-8"
               />
@@ -68,7 +68,7 @@ const SuccessCarousel = () => {
               الشركة حتى وصولها الى 100 مليون ريال سعودي خلال الأشهر القادمة.
             </h1>
             <img
-              src="../../public/assets/images/black-line.png"
+              src="assets/images/black-line.png"
               alt="bbc-owais"
               className="absolute left-[25%] bottom-[10px] w-[150px]"
             />
@@ -78,7 +78,7 @@ const SuccessCarousel = () => {
           <div className="bg-white w-[280px]  pt-[3em] pb-[4em] px-4  mt-7 mb-7 text-center rounded-[30px] relative">
             <div className="flex justify-center">
               <img
-                src="../../public/assets/images/cnn.png"
+                src="assets/images/cnn.png"
                 alt="bbc-owais"
                 className="w-[60px] mb-8"
               />
@@ -90,7 +90,7 @@ const SuccessCarousel = () => {
               الشركة حتى وصولها الى 100 مليون ريال سعودي خلال الأشهر القادمة.
             </h1>
             <img
-              src="../../public/assets/images/black-line.png"
+              src="assets/images/black-line.png"
               alt="bbc-owais"
               className="absolute left-[25%] bottom-[10px] w-[150px]"
             />
@@ -100,7 +100,7 @@ const SuccessCarousel = () => {
           <div className="bg-white w-[280px]  pt-[3em] pb-[4em] px-4  mt-7 mb-7 text-center rounded-[30px] relative">
             <div className="flex justify-center">
               <img
-                src="../../public/assets/images/bbc.png"
+                src="assets/images/bbc.png"
                 alt="bbc-owais"
                 className="w-[60px] mb-8"
               />
@@ -112,7 +112,7 @@ const SuccessCarousel = () => {
               الشركة حتى وصولها الى 100 مليون ريال سعودي خلال الأشهر القادمة.
             </h1>
             <img
-              src="../../public/assets/images/black-line.png"
+              src="assets/images/black-line.png"
               alt="bbc-owais"
               className="absolute left-[25%] bottom-[10px] w-[150px]"
             />
@@ -122,7 +122,7 @@ const SuccessCarousel = () => {
           <div className="bg-white w-[280px]  pt-[3em] pb-[4em] px-4  mt-7 mb-7 text-center rounded-[30px] relative">
             <div className="flex justify-center">
               <img
-                src="../../public/assets/images/forbes.png"
+                src="assets/images/forbes.png"
                 alt="bbc-owais"
                 className="w-[60px] mb-8"
               />
@@ -134,7 +134,7 @@ const SuccessCarousel = () => {
               الشركة حتى وصولها الى 100 مليون ريال سعودي خلال الأشهر القادمة.
             </h1>
             <img
-              src="../../public/assets/images/black-line.png"
+              src="assets/images/black-line.png"
               alt="bbc-owais"
               className="absolute left-[25%] bottom-[10px] w-[150px]"
             />
@@ -144,7 +144,7 @@ const SuccessCarousel = () => {
           <div className="bg-white w-[280px]  pt-[3em] pb-[4em] px-4  mt-7 mb-7 text-center rounded-[30px] relative">
             <div className="flex justify-center">
               <img
-                src="../../public/assets/images/cnn.png"
+                src="assets/images/cnn.png"
                 alt="bbc-owais"
                 className="w-[60px] mb-8"
               />
@@ -156,7 +156,7 @@ const SuccessCarousel = () => {
               الشركة حتى وصولها الى 100 مليون ريال سعودي خلال الأشهر القادمة.
             </h1>
             <img
-              src="../../public/assets/images/black-line.png"
+              src="assets/images/black-line.png"
               alt="bbc-owais"
               className="absolute left-[25%] bottom-[10px] w-[150px]"
             />

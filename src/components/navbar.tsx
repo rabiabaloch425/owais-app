@@ -35,7 +35,7 @@ const NavbarPage = () => {
           <Navbar.Toggle aria-controls="navbarScroll" />
           <Navbar.Brand href="#" className="sm:block md:hidden">
             <img
-              src="../../public/assets/images/logo.png"
+              src="assets/images/logo.png"
               alt="owais logo"
               width={"75px"}
             />
@@ -48,7 +48,7 @@ const NavbarPage = () => {
             >
               <Nav.Link href="#action1" className="flex text-white">
                 <img
-                  src="../../public/assets/images/drop-down.png"
+                  src="assets/images/drop-down.png"
                   alt="drop-down"
                   className="h-[20px] mr-[10px] w-[20px] mt-[3px]"
                 />
@@ -81,7 +81,7 @@ const NavbarPage = () => {
           </Navbar.Collapse>
           <Navbar.Brand href="#" className="sm:hidden md:block">
             <img
-              src="../../public/assets/images/logo.png"
+              src="assets/images/logo.png"
               alt="owais logo"
               width={"75px"}
             />

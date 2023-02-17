@@ -11,6 +11,10 @@
 
 <h2 align='center'>Owais App</h2>
 
+## Live URL
+
+- https://owais-app-f9fe3.web.app/
+
 ## Get Started
 
 - [clone code] - Through git bash or simply download the zip code.

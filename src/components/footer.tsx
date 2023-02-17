@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <>
       <div className="bg-[#03989E] h-[auto] py-12 border-b-[8px] border-[#616161]">
-        <Row className="margin-auto relative">
+        <Row className="m-0 p-0 relative">
           <Col
             xs={12}
             md={5}
@@ -12,7 +12,7 @@ const Footer = () => {
           >
             <div className="sm:px-8 md:px-20 mt-11">
               <img
-                src="../../public/assets/images/logo.png"
+                src="assets/images/logo.png"
                 alt="owais logo"
                 className="sm:w-[100px] md:w-[116px]"
               />
@@ -21,22 +21,22 @@ const Footer = () => {
               </h2>
               <div className="flex gap-3 mt-4 ml-[-2em]">
                 <img
-                  src="../../public/assets/images/social1.png"
+                  src="assets/images/social1.png"
                   alt="owais-social"
                   className="w-[40px]"
                 />
                 <img
-                  src="../../public/assets/images/social2.png"
+                  src="assets/images/social2.png"
                   alt="owais-social"
                   className="w-[40px]"
                 />
                 <img
-                  src="../../public/assets/images/social3.png"
+                  src="assets/images/social3.png"
                   alt="owais-social"
                   className="w-[40px]"
                 />
                 <img
-                  src="../../public/assets/images/social3.png"
+                  src="assets/images/social3.png"
                   alt="owais-social"
                   className="w-[40px]"
                 />
@@ -44,7 +44,7 @@ const Footer = () => {
             </div>
           </Col>
           <Col xs={12} md={7} className="mt-11">
-            <Row className="margin-auto ">
+            <Row className="m-0 p-0 ">
               <Col xs={6} md={4} className="flex justify-center mb-12">
                 <div className="text-end">
                   <h5 className="text-white sm:text-[1rem] md:text-[1.3rem]">

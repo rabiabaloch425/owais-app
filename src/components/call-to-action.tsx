@@ -4,7 +4,7 @@ const CalltoAction = () => {
   return (
     <>
       <div className="bg-[#03989E] sm:px-[30px] md:px-[70px] py-[50px] h-auto text-end mb-12 mt-10">
-        <Row className="margin-auto flex justify-center">
+        <Row className="m-0 p-0 flex justify-center">
           <Col xs={12} md={6} className="flex justify-center">
             <div className="bg-white w-[280px]  py-[5em] px-4 shadow-double mt-7 mb-7 text-center">
               <h1 className="text-[#03989E]">اضف فرصتك الاستثمارية</h1>

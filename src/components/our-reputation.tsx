@@ -9,10 +9,10 @@ const OurReputation = () => {
         </h1>
       </div>
       <div className="mb-12">
-        <Row className="margin-auto">
-          <Col className="margin-auto">
+        <Row className="m-0 p-0">
+          <Col className="m-0 p-0">
             <div className="flex justify-between">
-              <Row className="margin-auto">
+              <Row className="m-0 p-0">
                 <Col xs={12} md={1}></Col>
                 <Col
                   xs={12}
@@ -23,7 +23,7 @@ const OurReputation = () => {
                   <div className="bg-white rounded-2xl px-6 py-12 relative text-center h-[315px]">
                     <div className="flex justify-center">
                       <img
-                        src="../../public/assets/images/single-rectangle.png"
+                        src="assets/images/single-rectangle.png"
                         alt="owais-rectangle"
                         className="w-[120px]"
                       />
@@ -39,7 +39,7 @@ const OurReputation = () => {
                       </button>
                     </div>
                     <img
-                      src="../../public/assets/images/rectangle.png"
+                      src="assets/images/rectangle.png"
                       alt="green-white"
                       className="absolute w-[110px] bottom-0 sm:left-[29%] md:left-[25%] "
                     />
@@ -54,7 +54,7 @@ const OurReputation = () => {
                   <div className="bg-white rounded-2xl px-6 py-12 relative text-center h-[315px]">
                     <div className="flex justify-center">
                       <img
-                        src="../../public/assets/images/double-rectangle.png"
+                        src="assets/images/double-rectangle.png"
                         alt="owais-rectangle"
                         className="w-[120px]"
                       />
@@ -70,7 +70,7 @@ const OurReputation = () => {
                       </button>
                     </div>
                     <img
-                      src="../../public/assets/images/rectangle.png"
+                      src="assets/images/rectangle.png"
                       alt="green-white"
                       className="absolute w-[110px] bottom-0 sm:left-[29%] md:left-[25%] "
                     />
@@ -85,7 +85,7 @@ const OurReputation = () => {
                   <div className="bg-white rounded-2xl px-6 py-12 relative text-center h-[315px]">
                     <div className="flex justify-center">
                       <img
-                        src="../../public/assets/images/square-rectangle.png"
+                        src="assets/images/square-rectangle.png"
                         alt="owais-rectangle"
                         className="w-[120px]"
                       />
@@ -100,7 +100,7 @@ const OurReputation = () => {
                       </button>
                     </div>
                     <img
-                      src="../../public/assets/images/rectangle.png"
+                      src="assets/images/rectangle.png"
                       alt="green-white"
                       className="absolute w-[110px] bottom-0 sm:left-[29%] md:left-[25%] "
                     />
@@ -115,7 +115,7 @@ const OurReputation = () => {
                   <div className="bg-white rounded-2xl px-6 py-12 relative text-center h-[315px]">
                     <div className="flex justify-center">
                       <img
-                        src="../../public/assets/images/square-rectangle.png"
+                        src="assets/images/square-rectangle.png"
                         alt="owais-rectangle"
                         className="w-[120px]"
                       />
@@ -130,7 +130,7 @@ const OurReputation = () => {
                       </button>
                     </div>
                     <img
-                      src="../../public/assets/images/rectangle.png"
+                      src="assets/images/rectangle.png"
                       alt="green-white"
                       className="absolute w-[110px] bottom-0 sm:left-[29%] md:left-[25%] "
                     />
@@ -145,7 +145,7 @@ const OurReputation = () => {
                   <div className="bg-white rounded-2xl px-6 py-12 relative text-center h-[315px]">
                     <div className="flex justify-center">
                       <img
-                        src="../../public/assets/images/square-rectangle.png"
+                        src="assets/images/square-rectangle.png"
                         alt="owais-rectangle"
                         className="w-[120px]"
                       />
@@ -160,7 +160,7 @@ const OurReputation = () => {
                       </button>
                     </div>
                     <img
-                      src="../../public/assets/images/rectangle.png"
+                      src="assets/images/rectangle.png"
                       alt="green-white"
                       className="absolute w-[110px] bottom-0 sm:left-[29%] md:left-[25%] "
                     />
@@ -171,12 +171,12 @@ const OurReputation = () => {
             </div>
           </Col>
         </Row>
-        <Row className="margin-auto">
-          <Col md={12} className="margin-auto">
+        <Row className="m-0 p-0">
+          <Col md={12} className="m-0 p-0">
             <div className="bg-white sm:px-[30px] md:px-[70px] py-[90px] h-[400px] text-end mb-12 mt-10">
               <div className="flex justify-end">
                 <img
-                  src="../../public/assets/images/Capital-Market-Authority.png"
+                  src="assets/images/Capital-Market-Authority.png"
                   alt="Capital-Market-Authority"
                   className="w-[300px]"
                 />

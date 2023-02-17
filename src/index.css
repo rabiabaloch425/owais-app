@@ -30,18 +30,18 @@ body {
 .collapse {
   visibility: initial !important;
 }
-.margin-auto {
-  margin: 0;
-  padding: 0;
+.m-0 p-0 {
+  margin: 0px;
+  padding: 0px;
 }
 .navbar-bg {
-  background-color: #00000047;
-  z-index: 10000;
-  width: 100%;
-  position: fixed;
+  background-color: #00000047 !important;
+  z-index: 10000 !important;
+  width: 100% !important;
+  position: fixed !important;
 }
 .carousel-indicators [data-bs-target] {
-  height: 15px !important;
+  height: 15px !important ;
   width: 15px !important;
   border-radius: 90% !important;
 }
@@ -62,9 +62,9 @@ body {
 }
 
 .progress-bar {
-  border-radius: 30px;
-  height: 25px;
-  background-color: #03989e;
+  border-radius: 30px !important;
+  height: 25px !important;
+  background-color: #03989e !important;
 }
 .shadow-double {
   box-shadow: 10px 10px 0px -1px rgba(97, 97, 97, 0.75);
