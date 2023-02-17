@@ -4,7 +4,7 @@
 
 <p align="center">
   <br>
-  <img width="400" src="./assets/images/logo.svg" alt="logo of awesome-vite repository">
+  <img width="400" src=".public/assets/images/logo.svg" alt="logo of awesome-vite repository">
   <br>
   <br>
 </p>
